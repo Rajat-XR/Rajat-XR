@@ -1,5 +1,7 @@
 # Hey! Rajat Jain here, let’s code! 😊🧑‍💻
 
+![GitHub followers](https://img.shields.io/github/followers/Rajat-XR?style=social)
+
 <img src="https://github.com/user-attachments/assets/21873c7e-0f1e-4b69-aab9-fea58d0eed2f" alt="Image 1" width="100" />
 <img src="https://github.com/user-attachments/assets/9d08cf4d-97c0-4720-ab0e-31d3b046b3c1" alt="Image 2" width="100" />
 <img src="https://github.com/user-attachments/assets/f5929e09-00b7-46c3-b0b2-ded4a9464956" alt="Image 3" width="90" />
