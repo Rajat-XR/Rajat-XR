@@ -1,2 +1,8 @@
 # Hey! Rajat Jain here, let’s code! 😊🧑‍💻
-![212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514](https://github.com/user-attachments/assets/6a4ce760-019d-4693-b6d3-c8a43410f12e)
+
+<img src="https://github.com/user-attachments/assets/21873c7e-0f1e-4b69-aab9-fea58d0eed2f" alt="Image 4" width="100" />
+<img src="https://github.com/user-attachments/assets/9d08cf4d-97c0-4720-ab0e-31d3b046b3c1" alt="Image 2" width="100" />
+<img src="https://github.com/user-attachments/assets/f5929e09-00b7-46c3-b0b2-ded4a9464956" alt="Image 1" width="90" />
+<img src="https://github.com/user-attachments/assets/061fc3b7-94aa-4375-8660-852149fa5409" alt="Image 5" width="90" />
+<img src="https://github.com/user-attachments/assets/a2cb6f80-aa79-40e0-a042-be91b33c7634" alt="Image 3" width="100" />
+
