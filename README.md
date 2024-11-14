@@ -1,10 +1,15 @@
-# Hey! Rajat Jain here, let’s code! 😊🧑‍💻
-
-![GitHub followers](https://img.shields.io/github/followers/Rajat-XR?style=social)
-
-<img src="https://github.com/user-attachments/assets/21873c7e-0f1e-4b69-aab9-fea58d0eed2f" alt="Image 1" width="100" />
-<img src="https://github.com/user-attachments/assets/9d08cf4d-97c0-4720-ab0e-31d3b046b3c1" alt="Image 2" width="100" />
-<img src="https://github.com/user-attachments/assets/f5929e09-00b7-46c3-b0b2-ded4a9464956" alt="Image 3" width="90" />
-<img src="https://github.com/user-attachments/assets/061fc3b7-94aa-4375-8660-852149fa5409" alt="Image 4" width="90" />
-<img src="https://github.com/user-attachments/assets/c113031c-7f03-4c22-b167-6992bdfc01fb" alt="Image 5" width="90" />
-<img src="https://github.com/user-attachments/assets/77408197-15fb-439c-a0ae-ea717c5f7b73" alt="Image 7" width="150" />
+<h1>Hi 👋, I'm Rajat Jain</h1>
+<p>Let's Code something great...</p>
+<h2>🚀 Languages and Tools I Use</h2>
+<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a></p>
+<ul>
+<li><a target="_blank" href=""></a></li>
+<h2>⚡️ Where to find me</h2>
+<p><a target="_blank" href="https://medium.com/@rajat-xr" style="display: inline-block;"><img src="https://img.shields.io/badge/medium-logo?style=for-the-badge&logo=medium&logoColor=white&color=black" alt="medium" /></a></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajat-xr&show_icons=true&locale=en&layout=compact" alt="rajat-xr" /></p>
