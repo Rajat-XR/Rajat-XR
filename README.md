@@ -11,8 +11,6 @@
   <img src="https://komarev.com/ghpvc/?username=rajat-xr&color=red&style=for-the-badge" alt="Profile views" />
 </p>
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=rajat-xr.rajat-xr">
-
 ---
 ### 🚀 About Me
 
