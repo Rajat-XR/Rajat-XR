@@ -49,9 +49,21 @@
           <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
         <br>WordPress
       </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+        <br>Git
+      </td>
+       <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+        <br>GitHub
+      </td>
+       <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+        <br>Docker
+      </td>
     </tr>
     <tr>
-      <td align="center" width="96">
+        <td align="center" width="96">
           <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
         <br>C
       </td>
@@ -59,24 +71,10 @@
           <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
         <br>C++
       </td>
-      <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-        <br>Git
-      </td>
-      <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-        <br>GitHub
-      </td>
-      <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-        <br>Docker
-      </td>
        <td align="center" width="96">
           <img src="https://skillicons.dev/icons?i=md" width="48" height="48" alt="Markdown" />
         <br>Markdown
       </td>
-    </tr>
-     <tr>
       <td align="center" width="96">
           <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
         <br>Firebase
@@ -101,6 +99,7 @@
           <img src="https://skillicons.dev/icons?i=notion" width="48" height="48" alt="Notion" />
         <br>Notion
       </td>
+    </tr>
   </table>
 </div>
 
