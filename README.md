@@ -5,7 +5,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1800&pause=1000&width=435&lines=Let's+Code+Something+Great;WEB+DEVELOPER;AI+%26+TECH+ENTHUSIAST)](https://git.io/typing-svg)
 
 <p align="left">
-<a href="mailto:rajatjain01970@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
 <img src="https://komarev.com/ghpvc/?username=rajat-xr&color=red&style=for-the-badge" alt="Profile views" />
 </p>
 
@@ -126,6 +125,7 @@
 <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white">
 <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black"> 
 <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white">
+<a href="mailto:rajatjain01970@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
 </p>
 
 ---
